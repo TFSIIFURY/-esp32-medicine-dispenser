@@ -1,0 +1,21 @@
+# Ignore Arduino build files
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+*.d
+*.o
+
+# Arduino IDE folders
+.pio/
+.vscode/
+.arduino/
+__pycache__/
+.DS_Store
+
+# Backup or temp files
+*~
+*.swp
+*.bak
+*.tmp
