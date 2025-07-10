@@ -94,7 +94,7 @@ Special thanks to **Robotic Society of kalyani Government Engineering college **
 ## 🔗 Developed By
 
 **Ankush Mondal**  
-[GitHub](https://github.com/TFSIIFURY) • [LinkedIn](www.linkedin.com/in/ankush-mondal-kgec)
+[GitHub](https://github.com/TFSIIFURY) • [LinkedIn](https://www.linkedin.com/in/ankush-mondal-kgec/)
 
 
 
